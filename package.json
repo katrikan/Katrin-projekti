@@ -1,0 +1,22 @@
+{
+  "name": "katrin-projekti",
+  "version": "1.0.0",
+  "description": "responsive portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katrikan/Katrin-projekti.git"
+  },
+  "author": "Katri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katrikan/Katrin-projekti/issues"
+  },
+  "homepage": "https://github.com/katrikan/Katrin-projekti#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
